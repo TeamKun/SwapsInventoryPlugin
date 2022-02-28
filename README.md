@@ -1,0 +1,2 @@
+# SwapsInventoryPlugin
+一定時間で、誰かとインベントリが入れ替わるプラグイン
