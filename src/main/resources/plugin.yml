@@ -1,0 +1,10 @@
+name: SwapsInventoryPlugin
+version: ${project.version}
+main: paruteto_plugin_02.swapsinventoryplugin.SwapsInventoryPlugin
+api-version: 1.16
+description: 一定時間で、誰かとインベントリが入れ替わるプラグイン
+commands:
+  swpinv:
+    description: 一定時間で、誰かとインベントリが入れ替わるプラグインのコマンドです
+    permission: op
+
