@@ -21,10 +21,10 @@
 　入れ替え発生間隔を指定します(秒)。<br>
 　初期値:60<br>
  
-- vpex enable<br>
+- swpinv enable<br>
 　プラグインを有効にします。<br>
 　初期値:disable<br>
  
-- vpex disable<br>
+- swpinv disable<br>
 　プラグインを無効にします。<br>
 　初期値:disable<br>
